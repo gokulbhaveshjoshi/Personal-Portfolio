@@ -1,0 +1,41 @@
+.about-main {
+    width: 100%;
+    height: 95vh;
+}
+h1 {
+    margin: 0rem;
+}
+
+.about-container {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.about-right{
+    padding-left: 2rem;
+}
+
+table {
+    text-align:left;
+    justify-content: flex-start;
+}
+
+td {
+    margin-left: 1rem;
+}
+
+/* .about-tr-value{
+ padding: 15px;
+} */
+
+th, td{
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.about-btn {
+    margin-top: 2rem;
+}
+
+

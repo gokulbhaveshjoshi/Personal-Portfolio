@@ -1,0 +1,57 @@
+.container{
+    height: 90vh;
+    display: flex;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.left {
+    margin-top: 10%;
+    color: black;
+}
+
+.greeting{
+    font-size: 1em;
+}
+
+.name-heading {
+    font-size: 2.5em;
+    font-weight: 400;
+}
+
+.sub-heading{
+    font-size: 1.2em;
+    font-weight: 900;
+}
+
+.description{
+    font-size: 1em;
+    margin-top: 1rem;
+}
+
+.btn-groups {
+    margin-top: 2rem;
+}
+
+.btn{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1em;
+    margin-right: 1rem;
+}
+
+.btn-yellow {
+    background-color: orange;
+    color: white;
+    border: 2px solid orange;
+}
+
+.btn-yellow-shade{
+    color: orange;
+    border: 2px solid orange;
+    background-color: transparent;
+}
+

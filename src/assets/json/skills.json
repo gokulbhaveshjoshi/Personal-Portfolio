@@ -1,0 +1,67 @@
+{
+    "skills": [
+        {
+            "name": "Programming Language",
+            "values": [
+                "Java",
+                "Javascript",
+                "Python",
+                "C"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "values": [
+                "HTML",
+                "CSS",
+                "ReactJs"
+            ]
+        },
+        {
+            "name": "Database",
+            "values": [
+                "MySQL",
+                "PostGre"
+            ]
+        },
+        {
+            "name": "Framework",
+            "values": [
+                "Spring"
+            ]
+        },
+        {
+            "name": "Tools",
+            "values": [
+                "Salesforce",
+                "Visual Studio Code",
+                "Postman",
+                "Android Studio"
+            ]
+        },
+        {
+            "name": "Version Control",
+            "values": [
+                "git"
+            ]
+        },
+        
+        {
+            "name": "Cloud Services",
+            "values": [
+                "AWS",
+                "Azure"
+            ]
+        },
+        {
+            "name": "Operating System",
+            "values": [
+                "Windows",
+                "Linus",
+                "MACOs"
+            ]
+        }
+
+    ]
+
+}

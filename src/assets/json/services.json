@@ -1,0 +1,34 @@
+{
+    "services": [
+        {
+            "title": "Web development",
+            "img": "/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        },
+        {
+            "title": "Web development",
+            "img": "/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        },
+        {
+            "title": "Web development",
+            "img": "../../assets/images/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        },
+        {
+            "title": "Web development",
+            "img": "../../assets/images/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        },
+        {
+            "title": "Web development",
+            "img": "../../assets/images/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        },
+        {
+            "title": "Web development",
+            "img": "../../assets/images/img1.png",
+            "description": "I design and develop services for customers of all sizes, specializing in creating stylish, modern websites."
+        }
+    ]
+}

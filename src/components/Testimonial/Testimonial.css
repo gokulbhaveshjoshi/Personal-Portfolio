@@ -1,0 +1,32 @@
+.testimonial{
+    height: 90vh;
+}
+.testimonial-card {
+    display: flex;
+    width: 40%;
+    padding: 10px;
+    border: 1px solid orange;
+}
+
+.testimonial-img{
+    width: auto;
+    height: 120px;
+    border-radius: 50%;
+    vertical-align: middle;
+    border-style: none;
+    margin-top: 5%;
+}
+
+.testimonial-right {
+    padding: 0px 0px 0px 15px;
+}
+
+.testimonial-msg{
+    text-align: justify;
+    justify-content: center;
+}
+
+.testimonial-h{
+    padding: 0;
+    margin: 10px 0px 2px 0px;
+}
